@@ -1,4 +1,4 @@
-# Fashion-Stock-Signals
+# Fashion-Inventory-Insights
 
 A Power BI retail analysis built on over 15,000 rows of fashion retail data, exploring the push and pull between what’s flying off the shelves and what’s left behind.
 
